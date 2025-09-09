@@ -1,10 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohamed Magdy Elghandour</h2>
-
-###
-
-<br clear="both">
-
-<h2 align="left">I am an Artificial Intelligence Engineer</h2>
+<h2 align="left">Hi 👋! My name is Mohamed Magdy Elghandour <br>I am an Artificial Intelligence Engineer</h2>
 
 ###
 
